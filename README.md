@@ -17,7 +17,7 @@ Cursando: Bootcamp Cyber Security Fundamentals - DIO (2026)
 
 ### Sobre o projeto
 
-Esse projeto surgiu como forma de organizar os estudos do Bootcamp de Cyber Security da DIO. A ideia foi usar o NotebookLM para criar um caderno temático com fontes reais da área, testando como a IA responde quando você define bem o contexto e as perguntas.
+Esse projeto surgiu como forma de organizar os estudos do Bootcamp de Cyber Security da DIO. A ideia foi usar o conhecimento adquirido em engenharia de prompt dentro do Claude e NotebookLM para criar um caderno temático com fontes reais da área, testando como a IA responde quando você define bem o contexto e as perguntas.
 
 ### O que é o NotebookLM?
 
